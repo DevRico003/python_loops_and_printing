@@ -19,7 +19,7 @@ No special installation instructions required. Simply clone the repository and r
 ## Usage
 
 ```python
-python3 range_functions.py
+python3 functions.py
 ```
 
 When run directly, this script will perform various tests of the functions. The output for each test will be printed to the console.
